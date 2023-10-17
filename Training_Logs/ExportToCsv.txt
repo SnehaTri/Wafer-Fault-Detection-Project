@@ -1,0 +1,21 @@
+2023-10-16/18:40:12		File exported successfully!!!
+2023-10-16/18:43:26		File exported successfully!!!
+2023-10-16/18:47:09		File exported successfully!!!
+2023-10-16/18:49:54		File exported successfully!!!
+2023-10-16/19:22:08		File exported successfully!!!
+2023-10-16/19:33:44		File exported successfully!!!
+2023-10-16/20:11:04		File exported successfully!!!
+2023-10-16/20:21:35		File exported successfully!!!
+2023-10-16/20:37:52		File exported successfully!!!
+2023-10-16/20:53:02		File exported successfully!!!
+2023-10-16/21:02:22		File exported successfully!!!
+2023-10-16/21:39:07		File exporting failed. Error : [Errno 13] Permission denied: 'Training_FileFromDB/InputFile.csv'
+2023-10-16/22:29:58		File exporting failed. Error : [Errno 13] Permission denied: 'Training_FileFromDB/InputFile.csv'
+2023-10-16/22:45:28		File exporting failed. Error : [Errno 13] Permission denied: 'Training_FileFromDB/InputFile.csv'
+2023-10-17/11:53:03		File exported successfully!!!
+2023-10-17/12:10:17		File exported successfully!!!
+2023-10-17/12:26:12		File exported successfully!!!
+2023-10-17/12:38:50		File exported successfully!!!
+2023-10-17/12:53:30		File exported successfully!!!
+2023-10-17/13:47:05		File exported successfully!!!
+2023-10-17/14:40:37		File exported successfully!!!
