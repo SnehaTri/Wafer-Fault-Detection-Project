@@ -7,3 +7,10 @@ The inputs of various sensors for different wafers have been provided. In electr
 •	+1 means that the wafer is in a working condition and it doesn’t need to be replaced.
 •	-1 means that the wafer is faulty and it needs to be replaced. 
 
+
+2.	Architecture Diagrams:
+2.1	Functional Architecture
+
+ ![image](https://github.com/SnehaTri/Wafer-Fault-Detection-Project/assets/38729246/1b745d69-e8a0-4f65-aba6-fdc8653f0d29)
+
+
